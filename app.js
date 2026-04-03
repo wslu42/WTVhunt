@@ -46,9 +46,6 @@ function updateProgressUI() {
 
   const percent = total > 0 ? (current / total) * 100 : 0;
   document.getElementById('progressFill').style.width = percent + "%";
-
-  document.getElementById('submitBtn').addEventListener('click', checkCode);
-  document.getElementById('resetBtn').addEventListener('click', resetGame);
 }
 
 
