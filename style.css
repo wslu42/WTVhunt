@@ -1,0 +1,166 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  background: linear-gradient(135deg, #f5f7fb, #e9eefc);
+  text-align: center;
+  margin: 0;
+  padding: 40px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  max-width: 520px;
+  margin: auto;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+}
+
+h1 {
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.progress-wrap {
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  background: #eee;
+  border-radius: 20px;
+  height: 14px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  background: linear-gradient(90deg, #4facfe, #00f2fe);
+  height: 100%;
+  width: 0%;
+  transition: width 0.4s ease;
+}
+
+.progress-text {
+  font-size: 14px;
+  margin-top: 6px;
+  color: #555;
+}
+
+.input-row {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;   /* 👈 控制間距 */
+}
+
+input {
+  padding: 12px;
+  font-size: 22px;
+  width: 160px;
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  flex: 0 0 140px;   /* 固定寬度 */
+}
+
+button {
+  padding: 12px 18px;
+  font-size: 16px;
+  margin-left: 8px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  background: #4facfe;
+  color: white;
+  transition: transform 0.1s ease;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.hidden {
+  display: none;
+}
+
+.response-banner {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin: 24px auto 12px auto;
+  padding: 10px 16px;
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 700;
+  border: 1px solid transparent;
+}
+
+.response-banner.error {
+  background: #ffe8e8;
+  color: #b42318;
+  border-color: #f7b3b3;
+}
+
+.response-banner.repeat {
+  background: #fff7db;
+  color: #8a6d1d;
+  border-color: #ecd48b;
+}
+
+.response-banner.new {
+  background: #eaf8ee;
+  color: #1f7a36;
+  border-color: #9ed0aa;
+}
+
+.response-banner.guide {
+  background: #4facfe;
+  color: white;
+  border-color: transparent;
+  box-shadow: 0 6px 16px rgba(79, 172, 254, 0.25);
+}
+
+.result-card {
+  margin-top: 18px;
+  padding: 24px 20px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #ffffff, #f0f4ff);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  animation: fadeIn 0.35s ease;
+}
+
+#stageTitle {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.clue-text {
+  font-size: 18px;
+  margin-top: 12px;
+  line-height: 1.7;
+  color: #333;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.action-row {
+  margin-top: 14px;
+}
+
+.reset-btn {
+  background: #ff6b6b;
+}
+
+.reset-btn:hover {
+  opacity: 0.9;
+}
