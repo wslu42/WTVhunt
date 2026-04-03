@@ -6,7 +6,7 @@
       "title": "第 1 關",
       "location_name": "主臥室地板中央顯眼處",
       "unlock_code": "4821",
-      "clue_text": "會把水果🍓變成好喝的東西🍹，透明的身體藏在廚房裡，打開看看，下一個秘密🔍就在裡面。",
+      "clue_text": "會把水果變成好喝的東西，透明的身體藏在廚房裡，打開看看，下一個秘密就在裡面。",
       "next_stage_id": 2,
       "safety_note": ""
     },
@@ -16,7 +16,7 @@
       "title": "第 2 關",
       "location_name": "廚房攪拌機瓶子裡",
       "unlock_code": "7306",
-      "clue_text": "安靜的地方住著很多書📗📕📘，小桌子總是陪著它們，靠近那張小桌子👇，你會找到下一個驚喜✨。",
+      "clue_text": "安靜的地方住著很多書，小桌子總是陪著它們，靠近那張小桌子，你會找到下一個驚喜。",
       "next_stage_id": 3,
       "safety_note": "媽媽陪同"
     },
@@ -26,7 +26,7 @@
       "title": "第 3 關",
       "location_name": "圖書館小茶几旁",
       "unlock_code": "9154",
-      "clue_text": "有一個地方常常被提醒要記得開燈💡，上面還有很多中文字🈺🈳🈯。",
+      "clue_text": "有一個地方常常被提醒要記得開燈，上面還有很多中文字。",
       "next_stage_id": 4,
       "safety_note": ""
     },
@@ -36,7 +36,7 @@
       "title": "第 4 關",
       "location_name": "孩子書房桌腳",
       "unlock_code": "2648",
-      "clue_text": "有一個黑黑的平面，上面沒有❌火但有時會變很燙。打開蓋子看看🔍有沒有驚喜✨。",
+      "clue_text": "有一個黑黑的平面，上面沒有火但有時會變很燙。打開蓋子看看有沒有驚喜。",
       "next_stage_id": 5,
       "safety_note": ""
     },
@@ -46,7 +46,7 @@
       "title": "第 5 關",
       "location_name": "廚房電磁爐上炒菜鍋中",
       "unlock_code": "7085",
-      "clue_text": "有個地方爸爸👔常常坐著思考💫，桌子撐著💪他的工作。往桌腳旁邊👉看看，有東西在等你。",
+      "clue_text": "有個地方爸爸👔常常坐著思考💫，桌子撐著他的工作。往桌腳旁邊看看，有東西在等你。",
       "next_stage_id": 6,
       "safety_note": "媽媽陪同"
     },
@@ -56,7 +56,7 @@
       "title": "第 6 關",
       "location_name": "爸爸辦公桌桌腳",
       "unlock_code": "8032",
-      "clue_text": "吃完飯後大家會一起去洗澡💦💦的地方。不是❌浴缸哦。",
+      "clue_text": "吃完飯後大家會一起去洗澡的地方。不是浴缸哦。",
       "next_stage_id": 7,
       "safety_note": ""
     },
@@ -66,7 +66,7 @@
       "title": "第 7 關",
       "location_name": "廚房洗碗機內",
       "unlock_code": "1467",
-      "clue_text": "每天晚上休息😴的地方，有頭也有腳。走到腳那一邊，低頭👇找找看。",
+      "clue_text": "每天晚上休息的地方，有頭也有腳。走到腳那一邊，低頭找找看。",
       "next_stage_id": 8,
       "safety_note": ""
     },
@@ -76,7 +76,7 @@
       "title": "第 8 關",
       "location_name": "主臥床舖床腳",
       "unlock_code": "6280",
-      "clue_text": "有三個大大的白色抽屜，打開右邊👉那個，看看你房間裡有沒有你的下一個謎題🔍。",
+      "clue_text": "有三個大大的白色抽屜，打開右邊那個，看看你房間裡有沒有你的下一個謎題。",
       "next_stage_id": 9,
       "safety_note": ""
     },
@@ -86,7 +86,7 @@
       "title": "第 9 關",
       "location_name": "孩子書房床鋪抽屜",
       "unlock_code": "3541",
-      "clue_text": "有些小方塊可以讓工具有力量💪，靜靜躺在樓梯旁邊🔍。",
+      "clue_text": "有些小方塊可以讓工具有力量，靜靜躺在樓梯旁邊。",
       "next_stage_id": 10,
       "safety_note": ""
     },
@@ -96,7 +96,7 @@
       "title": "第 10 關",
       "location_name": "一樓ryobi 工具電池區底下",
       "unlock_code": "9073",
-      "clue_text": "地下室有一個冷🧊冷🧊的大箱子，裡面藏著食物🍪。靠近它，你會找到下一步的提示🔍。",
+      "clue_text": "地下室有一個冷冷的大箱子，裡面藏著食物。靠近它，你會找到下一步的提示。",
       "next_stage_id": 11,
       "safety_note": ""
     },
@@ -106,7 +106,7 @@
       "title": "第 11 關",
       "location_name": "地下室冰箱處",
       "unlock_code": "2186",
-      "clue_text": "有一支裝電池🔋以後會轉啊轉🔄的工具，可以幫忙鎖緊東西。",
+      "clue_text": "有一支裝電池以後會轉啊轉的工具，可以幫忙鎖緊東西。",
       "next_stage_id": 12,
       "safety_note": ""
     },
@@ -116,7 +116,7 @@
       "title": "第 12 關",
       "location_name": "爸爸的工具區電動螺絲起子下",
       "unlock_code": "6405",
-      "clue_text": "彩色的衣服🧥不乾淨時會待在一起👯。翻翻也許有顆蛋🥚在和衣服玩躲貓貓。",
+      "clue_text": "彩色的衣服不乾淨時會待在一起。翻翻也許有顆蛋在和衣服玩躲貓貓。",
       "next_stage_id": 13,
       "safety_note": "媽媽陪同"
     },
@@ -126,7 +126,7 @@
       "title": "第 13 關",
       "location_name": "彩色髒衣洗衣籃內",
       "unlock_code": "7921",
-      "clue_text": "有一台會把髒衣服🥼變乾淨✨的機器，轉啊轉的旁邊，下一顆蛋🥚正在等著你。",
+      "clue_text": "有一台會把髒衣服變乾淨的機器，轉啊轉的旁邊，下一顆蛋正在等著你。",
       "next_stage_id": 14,
       "safety_note": ""
     },
@@ -136,7 +136,7 @@
       "title": "第 14 關",
       "location_name": "地下室洗衣機處",
       "unlock_code": "4358",
-      "clue_text": "回家後，外套🧥會去休息的地方，它們排排站👯👯👯等著你。",
+      "clue_text": "回家後，外套會去休息的地方，它們排排站等著你。",
       "next_stage_id": 15,
       "safety_note": ""
     },
@@ -146,7 +146,7 @@
       "title": "第 15 關",
       "location_name": "一樓掛外套處",
       "unlock_code": "8604",
-      "clue_text": "有一面會照出你臉的地方🪞，打開它的肚子，裡面藏著下一個秘密✨。",
+      "clue_text": "有一面會照出你臉的地方，打開它的肚子，裡面藏著下一個秘密。",
       "next_stage_id": 16,
       "safety_note": ""
     },
@@ -156,7 +156,7 @@
       "title": "第 16 關",
       "location_name": "廁所鏡子櫃子內",
       "unlock_code": "1739",
-      "clue_text": "外面有個小箱子📭，會收到遠方來的訊息📨。走到前院看看，那裡有新謎題等你。",
+      "clue_text": "外面有個小箱子，會收到遠方來的訊息。走到前院看看，那裡有新謎題等你。",
       "next_stage_id": 17,
       "safety_note": "媽媽陪同"
     },
@@ -166,7 +166,7 @@
       "title": "第 17 關",
       "location_name": "前院郵箱",
       "unlock_code": "5240",
-      "clue_text": "有一個很老很大的守護者站在前院，它的腳踩在石堆中🪨🪨🪨。",
+      "clue_text": "有一個很老很大的守護者站在前院，它的腳踩在石堆中。",
       "next_stage_id": 18,
       "safety_note": ""
     },
@@ -176,7 +176,7 @@
       "title": "第 18 關",
       "location_name": "前院最大的大樹樹根",
       "unlock_code": "6813",
-      "clue_text": "後院有個地方可以讓你飛高高✈️✈️。去找那個可以盪來盪去的地方。",
+      "clue_text": "後院有個地方可以讓你飛高高。去找那個可以盪來盪去的地方。",
       "next_stage_id": 19,
       "safety_note": ""
     },
@@ -186,7 +186,7 @@
       "title": "第 19 關",
       "location_name": "後院鞦韆處",
       "unlock_code": "9051",
-      "clue_text": "小小的植物🌸🌿🌱住在一起，蔥、蒜都是鄰居。去前院那片小小菜園看看💦。",
+      "clue_text": "小小的植物住在一起，蔥、蒜都是鄰居。去前院那片小小菜園看看。",
       "next_stage_id": 20,
       "safety_note": ""
     },
@@ -196,7 +196,7 @@
       "title": "第 20 關",
       "location_name": "前院種蔥薑蒜處",
       "unlock_code": "2476",
-      "clue_text": "有一個白白的小房子🛖，裡面放著各種東西🧭🛞🔍，它靜靜站在後院。去找找它吧。",
+      "clue_text": "有一個白白的小房子，裡面放著各種東西，它靜靜站在後院。去找找它吧。",
       "next_stage_id": 21,
       "safety_note": ""
     },
@@ -206,7 +206,7 @@
       "title": "第 21 關",
       "location_name": "後院白色儲藏室",
       "unlock_code": "3189",
-      "clue_text": "有三個輪子🛞🛞🛞的東西，會排在一起躲雨☔休息。去前院找找。",
+      "clue_text": "有三個輪子的東西，會排在一起躲雨休息。去前院找找。",
       "next_stage_id": 22,
       "safety_note": "媽媽陪同"
     },
@@ -216,7 +216,7 @@
       "title": "第 22 關",
       "location_name": "前院腳踏車棚",
       "unlock_code": "7602",
-      "clue_text": "後院有時會有火光🔥🔥。去找找看。",
+      "clue_text": "後院有時會有火光。去找找看。",
       "next_stage_id": 23,
       "safety_note": ""
     },
@@ -226,7 +226,7 @@
       "title": "第 23 關",
       "location_name": "後院營火處",
       "unlock_code": "1548",
-      "clue_text": "這次是一個圓圓的超大盤子💿，可以躺上去看天空🔭。",
+      "clue_text": "這次是一個圓圓的超大盤子，可以躺上去看天空。",
       "next_stage_id": 24,
       "safety_note": ""
     },
@@ -236,7 +236,7 @@
       "title": "第 24 關",
       "location_name": "前院圓盤鞦韆處",
       "unlock_code": "8930",
-      "clue_text": "有一個很多格子的地方👟。找到左邊數過來第三排、再往上第六個格子🔍。",
+      "clue_text": "有一個很多格子的地方。找到左邊數過來第三排、再往上第六個格子。",
       "next_stage_id": 25,
       "safety_note": ""
     },
@@ -246,7 +246,7 @@
       "title": "第 25 關",
       "location_name": "一樓進門鞋櫃左邊數來第3排往上第4個格子",
       "unlock_code": "4261",
-      "clue_text": "冬天時家裡沒油但還是會暖暖🔥的朋友，現在靜靜地休息著，不是在上面，也不是旁邊，往下面👇找找看。",
+      "clue_text": "冬天時家裡沒油但還是會暖暖的朋友，現在靜靜地休息著，不是在上面，也不是旁邊，往下面找找看。",
       "next_stage_id": 26,
       "safety_note": ""
     },
@@ -256,7 +256,7 @@
       "title": "第 26 關",
       "location_name": "一樓閒置的火爐底下",
       "unlock_code": "5719",
-      "clue_text": "餐廳有一張椅子肚子裡可以藏東西🎯，輕輕打開它，你會看到🔍下一顆蛋。",
+      "clue_text": "餐廳有一張椅子肚子裡可以藏東西，輕輕打開它，你會看到下一顆蛋。",
       "next_stage_id": 27,
       "safety_note": "媽媽陪同"
     },
@@ -266,7 +266,7 @@
       "title": "第 27 關",
       "location_name": "餐廳收納沙發內",
       "unlock_code": "2317",
-      "clue_text": "有一台會把東西一層一層做出來✨的機器，旁邊靜靜地藏著下一個線索🔑。",
+      "clue_text": "有一台會把東西一層一層做出來的機器，旁邊靜靜地藏著下一個線索。",
       "next_stage_id": 28,
       "safety_note": ""
     },
@@ -276,7 +276,7 @@
       "title": "第 28 關",
       "location_name": "餐廳3D印表機旁",
       "unlock_code": "5640",
-      "clue_text": "有一個很冷⛄的地方專門放食物🍪，牛奶🥛最喜歡待在那裡。去找它的家。",
+      "clue_text": "有一個很冷的地方專門放食物，牛奶最喜歡待在那裡。去找它的家。",
       "next_stage_id": 29,
       "safety_note": ""
     },
@@ -286,7 +286,7 @@
       "title": "第 29 關",
       "location_name": "冰箱冷藏庫牛奶區",
       "unlock_code": "8192",
-      "clue_text": "樓梯間有一扇小小的門，好像是給小精靈🧙‍♀️用的。往門的下面👇看看。",
+      "clue_text": "樓梯間有一扇小小的門，好像是給小精靈用的。往門的下面看看。",
       "next_stage_id": 30,
       "safety_note": "媽媽陪同"
     },
@@ -296,7 +296,7 @@
       "title": "第 30 關",
       "location_name": "樓梯間的 elf 入口小門底下",
       "unlock_code": "3507",
-      "clue_text": "再去廚房找更冷🧊更冷🧊的地方，食物會變硬🍫的地方。下一顆蛋🥚就在裡面。",
+      "clue_text": "再去廚房找更冷更冷的地方，食物會變硬的那裡。下一顆蛋就在裡面。",
       "next_stage_id": 31,
       "safety_note": ""
     },
@@ -306,7 +306,7 @@
       "title": "第 31 關",
       "location_name": "廚房冰箱冷凍庫",
       "unlock_code": "6724",
-      "clue_text": "最後的寶藏🧩在主臥室裡，一個會閃著彩色光芒✨的玻璃櫃內。回去找找看🔍🍭🔍。",
+      "clue_text": "最後的寶藏在主臥室裡，一個會閃著彩色光芒的玻璃櫃內。回去找找看。",
       "next_stage_id": 32,
       "safety_note": ""
     },
@@ -316,7 +316,7 @@
       "title": "第 32 關 / 終點",
       "location_name": "主臥室閃著彩色LED的電腦主機內",
       "unlock_code": "1086",
-      "clue_text": "🐣🐇🐣恭喜你全～部～闖～關～成功！你把 32 顆蛋都找到了，今天你就是最厲害的找～蛋～小～高～手！🐇🐣🐇",
+      "clue_text": "🥚🐰🥚恭喜你全～部～闖～關～成功！你把 32 顆蛋都找到了，今天你就是最厲害的找～蛋～小～高～手！🐰🥚🐰",
       "next_stage_id": null,
       "safety_note": ""
     }
