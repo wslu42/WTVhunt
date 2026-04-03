@@ -96,7 +96,7 @@ document.getElementById('codeInput').addEventListener('keydown', (e) => {
 });
 
 // ⭐ 統一訊息控制（核心）
-function setBanner(message, type) {🚀
+function setBanner(message, type) {
   const banner = document.getElementById('responseBanner');
   banner.innerText = message;
   banner.className = `response-banner ${type}`;
