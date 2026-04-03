@@ -122,10 +122,10 @@ function checkCode() {
     const stageTitle = document.getElementById('stageTitle');
     const clue = document.getElementById('clue');
   
-    // 顯示當前應該的下一關提示
-    const expectedStage = stages.find(s => s.id === currentStageId);
-    stageTitle.innerText = expectedStage ? expectedStage.title : '🎉 終點';
-    clue.innerText = expectedStage ? expectedStage.clue_text : '';
+    // // 顯示當前應該的下一關提示
+    // const expectedStage = stages.find(s => s.id === currentStageId);
+    // stageTitle.innerText = expectedStage ? expectedStage.title : '🎉 終點';
+    // clue.innerText = expectedStage ? expectedStage.clue_text : '';
   
     resultDiv.classList.remove('hidden');
   
