@@ -53,30 +53,42 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;   /* 👈 控制間距 */
+  gap: 10px;
+  flex-wrap: wrap;
 }
 
 input {
   padding: 12px;
   font-size: 22px;
   width: 160px;
+  max-width: 100%;
   text-align: center;
   border-radius: 10px;
   border: 1px solid #ccc;
-  flex: 0 0 140px;   /* 固定寬度 */
+  box-sizing: border-box;
 }
 
 button {
   padding: 12px 18px;
   font-size: 16px;
-  margin-left: 8px;
   cursor: pointer;
   border-radius: 10px;
   border: none;
   background: #4facfe;
   color: white;
-  transition: transform 0.1s ease;
+  box-sizing: border-box;
+  white-space: nowrap;
+  margin-left: 0;
 }
+
+.reset-btn {
+  background: #ff6b6b;
+}
+
+.reset-btn:hover {
+  opacity: 0.9;
+}
+
 
 button:active {
   transform: scale(0.95);
@@ -157,10 +169,38 @@ button:hover {
   margin-top: 14px;
 }
 
-.reset-btn {
-  background: #ff6b6b;
-}
+@media (max-width: 600px) {
+  body {
+    padding: 20px 12px;
+  }
 
-.reset-btn:hover {
-  opacity: 0.9;
+  .container {
+    padding: 22px 16px;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .input-row {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  input,
+  button {
+    width: 100%;
+    max-width: 260px;
+  }
+
+  .response-banner {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .result-card {
+    padding: 20px 16px;
+  }
+
+  .clue-text {
+    font-size: 17px;
+  }
 }
