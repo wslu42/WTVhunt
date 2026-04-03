@@ -163,6 +163,8 @@ function checkCode() {
   resultDiv.classList.remove('hidden');
 
   launchConfetti();
+
+  document.getElementById('codeInput').value = "";
 }
 
 document.getElementById('resetBtn').addEventListener('click', resetGame);
