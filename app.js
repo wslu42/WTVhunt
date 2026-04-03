@@ -42,7 +42,7 @@ function updateProgressUI() {
   const current = unlockedStages.length;
 
   document.getElementById('progressText').innerText =
-    `🚀🚀🚀 目前進度：${current} / ${total} 🚀🚀🚀`;
+    `🚀 目前進度：${current} / ${total} 🚀`;
 
   const percent = total > 0 ? (current / total) * 100 : 0;
   document.getElementById('progressFill').style.width = percent + "%";
@@ -93,7 +93,7 @@ document.getElementById('codeInput').addEventListener('keydown', (e) => {
 });
 
 // ⭐ 統一訊息控制（核心）
-function setBanner(message, type) {
+function setBanner(message, type) {🚀
   const banner = document.getElementById('responseBanner');
   banner.innerText = message;
   banner.className = `response-banner ${type}`;
