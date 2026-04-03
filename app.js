@@ -101,7 +101,8 @@ function setBanner(message, type) {
 
 // 解鎖邏輯
 function checkCode() {
-  const input = document.getElementById('codeInput').value.trim();
+  const input = document.getElementById('codeInput').value.replace(/\D/g, '').slice(0, 4);
+  document.getElementById('codeInput').value = input;
 
   const expectedStage = stages.find(s => s.id === currentStageId);
   const stage = expectedStage && String(expectedStage.unlock_code) === input
