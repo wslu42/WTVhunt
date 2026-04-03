@@ -21,7 +21,15 @@
     </div>
 
     <div class="input-row">
-        <input id="codeInput" type="text" maxlength="4" inputmode="numeric" placeholder="輸入密碼">
+        <input
+            id="codeInput"
+            type="tel"
+            inputmode="numeric"
+            pattern="[0-9]*"
+            maxlength="4"
+            autocomplete="one-time-code"
+            placeholder="輸入密碼"
+        />
         <button id="submitBtn">解鎖</button>
         <button id="resetBtn" class="reset-btn">重新開始 🔄</button>
     </div>
