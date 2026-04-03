@@ -20,19 +20,14 @@
       <p id="progressText" class="progress-text">目前進度：0 / 32</p>
     </div>
 
-    <div class="input-row">
-        <input
-            id="codeInput"
-            type="tel"
-            inputmode="numeric"
-            pattern="[0-9]*"
-            maxlength="4"
-            autocomplete="one-time-code"
-            placeholder="輸入密碼"
-        />
-        <button id="submitBtn">解鎖🔐</button>
-        <button id="resetBtn" class="reset-btn">重來🔄</button>
-    </div>
+   <div class="input-row">
+     <input id="codeInput" type="tel" inputmode="numeric" maxlength="4" placeholder="輸入密碼">
+   
+     <div class="btn-group">
+       <button id="submitBtn">解鎖🔐</button>
+       <button id="resetBtn" class="reset-btn">重來🔄</button>
+     </div>
+   </div>
 
     <div id="responseBanner" class="response-banner hidden"></div>
 

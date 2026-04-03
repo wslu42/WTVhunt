@@ -49,12 +49,16 @@ h1 {
 }
 
 .input-row {
-  margin-top: 15px;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   gap: 10px;
-  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+.btn-group {
+  display: flex;
+  gap: 10px;
 }
 
 input {
@@ -79,6 +83,7 @@ button {
   box-sizing: border-box;
   white-space: nowrap;
   margin-left: 0;
+  height: 44px;   /* iOS 點擊友善高度 */
 }
 
 .reset-btn {
@@ -170,37 +175,26 @@ button:hover {
 }
 
 @media (max-width: 600px) {
-  body {
-    padding: 20px 12px;
-  }
-
-  .container {
-    padding: 22px 16px;
-    max-width: 100%;
-    box-sizing: border-box;
-  }
 
   .input-row {
-    flex-direction: column;
+    flex-direction: column;   /* 👈 分行核心 */
     gap: 12px;
   }
 
-  input,
-  button {
+  input {
     width: 100%;
     max-width: 260px;
   }
 
-  .response-banner {
-    max-width: 100%;
-    box-sizing: border-box;
+  .btn-group {
+    width: 100%;
+    max-width: 260px;
+    display: flex;
+    gap: 10px;
   }
 
-  .result-card {
-    padding: 20px 16px;
-  }
-
-  .clue-text {
-    font-size: 17px;
+  .btn-group button {
+    flex: 1;   /* 👈 兩顆按鈕平均分 */
+    height: 44px;   /* iOS 點擊友善高度 */
   }
 }
